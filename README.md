@@ -5,17 +5,10 @@ TurfEase: A React.js-based turf booking platform with Firebase backend for real-
 Welcome to the Online Turf Booking App repository! This project allows users to book sports turfs online. It's built using React.js for the frontend and Firebase for the backend. With this project, you can learn how to create a dynamic web application for managing turf bookings.
 
 ## Table of Contents
-
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-
-
-## Demo
-
-Check out the live demo of the Online Turf Booking App: https://turfz-5834b.web.app/
 
 ## Features
 
