@@ -11,8 +11,7 @@ Welcome to the Online Turf Booking App repository! This project allows users to 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
+
 
 ## Demo
 
@@ -30,7 +29,7 @@ Check out the live demo of the Online Turf Booking App: https://turfz-5834b.web.
 Follow these steps to set up the project on your local machine:
 
 1. Clone this repository: `https://github.com/Ayushmanonlycode/TurfEase`
-2. Navigate to the project directory: `cd Turfz`
+2. Navigate to the project directory: `cd TurfEase`
 3. Install dependencies: `npm install`
 
 ## Usage
