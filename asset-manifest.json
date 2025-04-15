@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TurfEase/static/css/main.e1b45434.css",
+    "main.js": "/TurfEase/static/js/main.a3b557fa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TurfEase/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bgimg.jpg": "/TurfEase/static/media/bgimg.ac6ac2674f98646e37c1.jpg",
+    "static/media/turfbg.jpg": "/TurfEase/static/media/turfbg.65ccbf93a3eb96572b6e.jpg",
+    "static/media/ball.png": "/TurfEase/static/media/ball.d9a7244d75364f2f8315.png",
+    "static/media/maxresdefault.jpg": "/TurfEase/static/media/maxresdefault.f3dd4719e4af3ca66737.jpg",
+    "static/media/jpg": "/TurfEase/static/media/07d42d6b9422573054f93fdb259810f1.32784e1dd0f49b7e29a2.jpg",
+    "static/media/turfease.png": "/TurfEase/static/media/turfease.3788d90e9c0ea4bd9f8a.png",
+    "static/media/search.png": "/TurfEase/static/media/search.cadee8cdb0c0afb1a713.png",
+    "static/media/facebook.png": "/TurfEase/static/media/facebook.949fbed6fa167a860a79.png",
+    "index.html": "/TurfEase/index.html",
+    "main.e1b45434.css.map": "/TurfEase/static/css/main.e1b45434.css.map",
+    "main.a3b557fa.js.map": "/TurfEase/static/js/main.a3b557fa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TurfEase/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1b45434.css",
+    "static/js/main.a3b557fa.js"
+  ]
+}
